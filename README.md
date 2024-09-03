@@ -27,10 +27,10 @@ This repository contains the Laravel assignment project. Follow the instructions
 4. **Generate APP KEY**
     ```bahs
     php artisan key:generate
-3. **SESSION_DRIVER is set to database, run the migrations:(Optional)**
+5. **SESSION_DRIVER is set to database, run the migrations:(Optional)**
     ``bash
     php artisan migrate
     If SESSION_DRIVER is set to file, then no need to run migration
-4.**Run the application**
+6.**Run the application**
     ```bahs
     php artisan serve
