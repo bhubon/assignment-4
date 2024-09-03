@@ -4,7 +4,7 @@ This repository contains the Laravel assignment project. Follow the instructions
 
 ## Prerequisites
 
-- PHP (>= 7.4)
+- PHP (>= 8.2)
 - Composer
 - Laravel (>= 11)
 
@@ -28,4 +28,3 @@ This repository contains the Laravel assignment project. Follow the instructions
 4.**Run the application**
     ```bahs
     php artisan serve
-
