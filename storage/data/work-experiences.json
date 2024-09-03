@@ -1,0 +1,20 @@
+{
+    "title": "Work experiences",
+    "description": "I collaborate closely with clients to translate their vision into tailored, user-centric websites, ensuring their goals are exceeded.",
+    "work_experience": [
+        {
+            "title": "Senior PHP Laravel Developer",
+            "year": "2019 - Present",
+            "company": "Experion",
+            "location": "New York, NY",
+            "responsibilities": "Lead in the design, development, and deployment of scalable web applications using Laravel."
+        },
+        {
+            "title": "PHP Developer",
+            "year": "2017 - 2018",
+            "company": "Stepping Stone Tech",
+            "location": "New York, NY",
+            "responsibilities": "Developed numerous web applications and backend services using PHP and Laravel."
+        }
+    ]
+}

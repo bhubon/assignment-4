@@ -1,0 +1,48 @@
+{
+    "title": "Projects",
+    "description": "My projects showcases five years of dedicated web development experience, highlighting some outstanding projects and innovative solutions.",
+    "Categories": [
+        "Web design",
+        "Web Development",
+        "E-commerce",
+        "Mobile App Design"
+    ],
+    "Projects": [
+        {
+            "id": 1,
+            "Category": "Web design",
+            "Client": "ASU Company",
+            "Project date": "01 March, 2020",
+            "Project URL": "www.example.com",
+            "Description": "Exercitationem repudiandae officiis neque suscipit. Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+            "Screenshot": "https://via.placeholder.com/800x600?text=ASU+Company+Project"
+        },
+        {
+            "id": 3,
+            "Category": "Web Development",
+            "Client": "Tech Innovations",
+            "Project date": "10 June, 2021",
+            "Project URL": "www.techinnovations.com",
+            "Description": "Nostrum assumenda atque at, exercitationem iusto facilis. Voluptates veritatis libero debitis odit reprehenderit. Ab voluptatem accusamus reprehenderit dolorem alias nisi pariatur. Soluta sunt mollitia magnam qui eveniet perferendis.",
+            "Screenshot": "https://via.placeholder.com/800x600?text=Tech+Innovations+Project"
+        },
+        {
+            "id": 4,
+            "Category": "E-commerce",
+            "Client": "Online Shop Ltd.",
+            "Project date": "20 July, 2022",
+            "Project URL": "www.onlineshop.com",
+            "Description": "Modi optio ut odit velit fugiat velit. Deserunt nesciunt tempore provident aliquam impedit. Facilis ut beatae adipisci molestias commodi accusantium. Aut cumque tempora molestiae consequatur eaque.",
+            "Screenshot": "https://via.placeholder.com/800x600?text=Online+Shop+Ltd.+Project"
+        },
+        {
+            "id": 6,
+            "Category": "Mobile App Design",
+            "Client": "App Creators Inc.",
+            "Project date": "12 September, 2022",
+            "Project URL": "www.appcreators.com",
+            "Description": "Consequuntur atque voluptatem possimus veritatis provident. Labore fugit tenetur odit est, alias asperiores. Voluptates et porro officia asperiores. Dolores tempora aut hic inventore dolorum.",
+            "Screenshot": "https://via.placeholder.com/800x600?text=App+Creators+Inc.+Project"
+        }
+    ]
+}

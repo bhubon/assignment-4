@@ -1,0 +1,64 @@
+{
+    "name": "Bhubon SUtradhar Nil",
+    "profession_1": "PHP Developer",
+    "profession_2": "Laravel Developer",
+    "profession_3": "Freelancer",
+    "avatar": "assets/img/my-profile-img.jpg",
+    "heroImage": "assets/img/hero-bg.jpg",
+    "about": "Experienced PHP Laravel developer with a strong background in creating robust, scalable web applications. Skilled in Laravel, PHP, MySQL, and RESTful APIs, with a focus on clean code and efficient performance. Adept at collaborating with teams to deliver high-quality projects on time. Committed to continuous learning and staying updated with the latest development practices.",
+    "title": "Full-Stack PHP Developer",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "personal_info": {
+        "birthday": "2000",
+        "website": "www.thedevnil.com.com",
+        "phone": "+8801683859662",
+        "city": "Narsingdi, Bangladesh",
+        "age": 24,
+        "degree": "Master in Computer Science",
+        "email": "hello@thedevmil.com",
+        "freelance": "Available"
+    },
+    "additional_info": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.",
+    "statistics": {
+        "happy_clients": 250,
+        "projects": 521,
+        "hours_of_support": 1453,
+        "hard_workers": 32
+    },
+    "skills_info": "Continuously advancing expertise in web development, staying current with the latest technologies and trends to deliver cutting-edge solutions.",
+    "skills": [
+        {
+            "name": "PHP",
+            "level": "100%"
+        },
+        {
+            "name": "Laravel",
+            "level": "95%"
+        },
+        {
+            "name": "JavaScript",
+            "level": "85%"
+        },
+        {
+            "name": "HTML",
+            "level": "100%"
+        },
+        {
+            "name": "CSS",
+            "level": "90%"
+        },
+        {
+            "name": "MySQL",
+            "level": "80%"
+        },
+        {
+            "name": "RESTful APIs",
+            "level": "75%"
+        },
+        {
+            "name": "Version Control (Git)",
+            "level": "90%"
+        }
+    ],
+    "contact_description": "Feel free to reach out through any of the methods listed below for professional inquiries."
+}
