@@ -18,17 +18,13 @@ This repository contains the Laravel assignment project. Follow the instructions
 2. **Go to project path**
     ```bahs
     cd assignment-4
-
 2. **Install composer**
     ```bahs
     composer install
-
 3. **SESSION_DRIVER is set to database, run the migrations:**
     ``bash
     php artisan migrate
-
-    **If SESSION_DRIVER is set to file, then no need to run migration**
-
+    If SESSION_DRIVER is set to file, then no need to run migration
 4.**Run the application**
     ```bahs
     php artisan serve
