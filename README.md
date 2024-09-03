@@ -21,7 +21,13 @@ This repository contains the Laravel assignment project. Follow the instructions
 2. **Install composer**
     ```bahs
     composer install
-3. **SESSION_DRIVER is set to database, run the migrations:**
+3. **Copy .env file**
+    ```bahs
+    cp .env.example .env
+4. **Generate APP KEY**
+    ```bahs
+    php artisan key:generate
+3. **SESSION_DRIVER is set to database, run the migrations:(Optional)**
     ``bash
     php artisan migrate
     If SESSION_DRIVER is set to file, then no need to run migration
